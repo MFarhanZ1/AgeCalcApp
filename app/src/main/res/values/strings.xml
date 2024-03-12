@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Age Calc</string>
+    <string name="title_activity_result_page">ResultPageActivity</string>
+</resources>
